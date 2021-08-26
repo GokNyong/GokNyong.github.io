@@ -1,0 +1,5 @@
+When I first started the server, I saw Jekyll's bundled site just fine, but then I stated getting the "layout 'post' does not exist" warnings.
+
+This was baffling me, because I hadn't made any changes, until I saw @edbucks comment. It's exactly like that: starting the server from the project's root works fine, starting it from the _posts folder generates the error.
+
+But now another pressing question arises: WHERE are these layouts (post, page) coming from, since I can't find any post.html or page.html files, nor any layouts folder?

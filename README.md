@@ -1,1 +1,0 @@
-# GokNyong.github.io
